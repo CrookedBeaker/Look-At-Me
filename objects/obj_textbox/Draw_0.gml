@@ -6,5 +6,5 @@ draw_set_color(c_black);
 
 var sh = string_height(drawstring)
 var sw = string_width(drawstring)
-draw_sprite_stretched(spr_textbubble,0,x,y-20-sh,sw+10,sh+8);
+draw_sprite_stretched(spr_textbubble,0,x-5-sw/2,y-24-sh,sw+10,sh+8);
 draw_text(x,y-20-sh,drawstring);
