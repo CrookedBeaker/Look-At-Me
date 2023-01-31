@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_fountain","path":"sprites/spr_fountain/spr_fountain.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_fountain",
     "tags": [],
     "resourceType": "GMSequence",

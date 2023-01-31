@@ -103,7 +103,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_bg6","path":"sprites/spr_bg6/spr_bg6.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_bg6",
     "tags": [],
     "resourceType": "GMSequence",

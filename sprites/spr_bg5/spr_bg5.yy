@@ -95,7 +95,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_bg5","path":"sprites/spr_bg5/spr_bg5.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_bg5",
     "tags": [],
     "resourceType": "GMSequence",

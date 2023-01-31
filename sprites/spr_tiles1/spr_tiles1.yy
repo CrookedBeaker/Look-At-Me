@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_tiles1","path":"sprites/spr_tiles1/spr_tiles1.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_tiles1",
     "tags": [],
     "resourceType": "GMSequence",

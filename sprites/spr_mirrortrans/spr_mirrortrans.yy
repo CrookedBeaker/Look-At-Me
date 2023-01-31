@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_mirrortrans","path":"sprites/spr_mirrortrans/spr_mirrortrans.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_mirrortrans",
     "tags": [],
     "resourceType": "GMSequence",

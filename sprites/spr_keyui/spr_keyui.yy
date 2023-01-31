@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_keyui","path":"sprites/spr_keyui/spr_keyui.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_keyui",
     "tags": [],
     "resourceType": "GMSequence",

@@ -47,6 +47,9 @@ if moveDir != -1 {
 	if tilt > 0.1 {
 		var moveX = tilt*moveSpeed*dcos(moveDir);
 		var moveY = tilt*moveSpeed*dsin(moveDir);
+	} else {
+		var moveX = 0;
+		var moveY = 0;
 	}
 	
 	if place_meeting(x+moveX,y,obj_collision) {

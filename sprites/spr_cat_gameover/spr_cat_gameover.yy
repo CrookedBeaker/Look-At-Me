@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_cat_gameover","path":"sprites/spr_cat_gameover/spr_cat_gameover.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_cat_gameover",
     "tags": [],
     "resourceType": "GMSequence",

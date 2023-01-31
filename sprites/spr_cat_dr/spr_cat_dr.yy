@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_cat_dr","path":"sprites/spr_cat_dr/spr_cat_dr.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_cat_dr",
     "tags": [],
     "resourceType": "GMSequence",

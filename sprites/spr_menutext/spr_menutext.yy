@@ -75,7 +75,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_menutext","path":"sprites/spr_menutext/spr_menutext.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_menutext",
     "tags": [],
     "resourceType": "GMSequence",

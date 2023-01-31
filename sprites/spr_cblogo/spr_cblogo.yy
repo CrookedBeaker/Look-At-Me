@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_cblogo","path":"sprites/spr_cblogo/spr_cblogo.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_cblogo",
     "tags": [],
     "resourceType": "GMSequence",

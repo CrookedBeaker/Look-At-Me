@@ -115,7 +115,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_bg3","path":"sprites/spr_bg3/spr_bg3.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_bg3",
     "tags": [],
     "resourceType": "GMSequence",

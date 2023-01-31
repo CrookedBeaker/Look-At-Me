@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_fingore","path":"sprites/spr_fingore/spr_fingore.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_fingore",
     "tags": [],
     "resourceType": "GMSequence",

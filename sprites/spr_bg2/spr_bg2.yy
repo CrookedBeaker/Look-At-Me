@@ -111,7 +111,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_bg2","path":"sprites/spr_bg2/spr_bg2.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_bg2",
     "tags": [],
     "resourceType": "GMSequence",

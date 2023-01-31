@@ -75,7 +75,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_swipe","path":"sprites/spr_swipe/spr_swipe.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_swipe",
     "tags": [],
     "resourceType": "GMSequence",

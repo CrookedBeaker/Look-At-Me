@@ -111,7 +111,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_bg4","path":"sprites/spr_bg4/spr_bg4.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_bg4",
     "tags": [],
     "resourceType": "GMSequence",

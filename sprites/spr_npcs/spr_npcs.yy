@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_npcs","path":"sprites/spr_npcs/spr_npcs.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_npcs",
     "tags": [],
     "resourceType": "GMSequence",

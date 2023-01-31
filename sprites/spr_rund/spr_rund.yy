@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_rund","path":"sprites/spr_rund/spr_rund.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_rund",
     "tags": [],
     "resourceType": "GMSequence",

@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_long","path":"sprites/spr_long/spr_long.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_long",
     "tags": [],
     "resourceType": "GMSequence",

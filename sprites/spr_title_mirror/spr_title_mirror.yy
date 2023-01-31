@@ -103,7 +103,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_title_mirror","path":"sprites/spr_title_mirror/spr_title_mirror.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_title_mirror",
     "tags": [],
     "resourceType": "GMSequence",

@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_textbubble","path":"sprites/spr_textbubble/spr_textbubble.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_textbubble",
     "tags": [],
     "resourceType": "GMSequence",

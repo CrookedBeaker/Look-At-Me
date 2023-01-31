@@ -87,7 +87,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_present","path":"sprites/spr_present/spr_present.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_present",
     "tags": [],
     "resourceType": "GMSequence",

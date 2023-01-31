@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_willpiece","path":"sprites/spr_willpiece/spr_willpiece.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_willpiece",
     "tags": [],
     "resourceType": "GMSequence",
